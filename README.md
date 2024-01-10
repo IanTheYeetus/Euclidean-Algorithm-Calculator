@@ -1,4 +1,4 @@
-# Euclidean-Algorithm-Calculator
-## Web & Desktop versions
+# Euclidean-Algorithm-Calculator: Web & Desktop versions
 
-### Requirements:
+## Requirements:
+Web: Live server extension to VS Code
